@@ -19,6 +19,7 @@ Transformed the data by creating more columns such as: </br>
 6) Margin percent    </br>
 
 <h2>Analyzing insights:</h2></br>
+<h1 align='center'>By Voter Turnout</h1>
 1.) Top 10 constituencies by voter turnout: </br>
   
    
@@ -46,6 +47,7 @@ Transformed the data by creating more columns such as: </br>
 
 ![download (4)](https://github.com/GHUB-arnav-10/LS_Results_Analysis/assets/93794942/784a9ee5-85f5-46fd-8ed0-60cd71764a16)
 
+<h1 align='center'>By number of seats and margin of victory</h1>
 6.) Seat distribution by political parties as pie chart:</br>
 
 
@@ -62,7 +64,7 @@ Transformed the data by creating more columns such as: </br>
 
 
 ![download (7)](https://github.com/GHUB-arnav-10/LS_Results_Analysis/assets/93794942/2232341c-5410-44a3-be16-2599650e5411)
-
+<h1 align='center'>By Candidates</h1>
 9.) Margin of victory for famous leaders:
 
 ![download (8)](https://github.com/GHUB-arnav-10/LS_Results_Analysis/assets/93794942/5f7a49a6-e482-4357-be4c-1083cffc6a73)
@@ -71,7 +73,7 @@ Transformed the data by creating more columns such as: </br>
 
 
 ![download (9)](https://github.com/GHUB-arnav-10/LS_Results_Analysis/assets/93794942/111f19c4-fc51-436e-a5e0-d5619a6da926)
-
+<h1 align='center'>By Alliance</h1>
 11.) Seat won by alliance:
 
 
